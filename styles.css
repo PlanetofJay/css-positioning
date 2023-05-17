@@ -61,3 +61,21 @@ main {
   left: 50px;
   top: 50px;
 }
+
+.relative .box {
+  position: relative;
+  left: 50px;
+  top: 50px;
+}
+
+.absolute .box {
+  position: absolute;
+  left: 50px;
+  top: 50px;
+}
+
+.fixed .box {
+  position: fixed;
+  left: 50px;
+  top: 50px;
+}
